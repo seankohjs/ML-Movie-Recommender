@@ -1,8 +1,4 @@
-Below is an example of a `README.md` for your project:
 
----
-
-```markdown
 # ML Movie Recommender: DBTT Cathay Project Movie Recommender
 
 Welcome to the ML Movie Recommender project! This project aims to build a content-based recommender system that leverages movie genres and user ratings to suggest movies that users are likely to enjoy. The project was developed as part of the DBTT Cathay Project.
@@ -115,9 +111,5 @@ Refer to the source code for detailed implementation.
 
 This project is open-source and available under the [MIT License](LICENSE).
 
----
 
-Feel free to modify and expand this README as your project evolves. If you have any questions or need further assistance, please reach out!
-```
 
----
