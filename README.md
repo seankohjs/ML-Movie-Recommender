@@ -93,7 +93,7 @@ Refer to the source code for detailed implementation.
 3. **Run the Script:**
    Execute the main Python script to generate user profiles, perform EDA, and produce recommendations:
    ```bash
-   python main.py
+   python movierecommender.py
    ```
 4. **View the Visualizations:**
    The script will display graphs that summarize the rating distribution, average ratings per genre, and user profile snapshots.
