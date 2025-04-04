@@ -22,7 +22,8 @@ The goal of this project is to create a movie recommender system that:
 - Incorporates current airing movies into the recommendation process.
 
 ## Data Description
-
+#NOTE FOR DBTT PROJECT, MOVIE DATA SET HAS BEEN CUT TO 500K ROWS FOR SUBMISSION PURPOSES
+DATASET WAS OBTAINED FROM GROUPLEN MOVIELEN'S 32M MOVIES
 The project uses three primary datasets:
 - **movies.csv**: Contains movie details with columns such as `movieId`, `title`, and `genres`. The `genres` field is a pipe-separated string (e.g., "Action|Adventure").
 - **ratings.csv**: Contains user ratings for movies with columns `userId`, `movieId`, `rating`, and `timestamp`.
